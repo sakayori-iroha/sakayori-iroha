@@ -64,15 +64,6 @@
 
 ---
 
-## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [twitter-qq-bridge](https://github.com/sakayori-iroha/twitter-qq-bridge) | Twitter推文监控 → 翻译 → QQ群推送 | Python, LLM API, QQ Bot |
-| [openclaw](https://github.com/openclaw/openclaw) | 开源AI助手框架核心贡献者 | TypeScript, Node.js, WebSocket |
-
----
-
 ## GitHub Stats
 
 <div align="center">
