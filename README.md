@@ -42,13 +42,23 @@
 
 ---
 
-## Stats
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakayori-iroha&show_icons=true&theme=catppuccin&hide_border=true)
+![Metrics](https://metrics.lecoq.io/sakayori-iroha?template=classic&config.timezone=Asia%2FTokyo)
 
 </div>
+
+<!--
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakayori-iroha&show_icons=true&theme=catppuccin&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakayori-iroha&layout=compact&theme=catppuccin&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakayori-iroha&theme=catppuccin&hide_border=true)
+
+</div>
+-->
 
 ---
 
