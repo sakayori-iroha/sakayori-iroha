@@ -64,11 +64,60 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![Metrics](https://metrics.lecoq.io/sakayori-iroha?template=classic&config.timezone=Asia%2FTokyo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakayori-iroha&theme=transparent&show_icons=true&icon_color=6DD5ED&hide_rank=true&rank_icon=github)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakayori-iroha&theme=dark&hide_border=true&stroke=6DD5ED&ring=6DD5ED&fire=ff6b6b&currStreakNum=ffd93d&sideNums=6bcb77&currStreakLabel=6DD5ED&sideLabels=ffd93d&date_format=M+j\[Y\])
+
+</div>
+
+---
+
+## 🏆 Trophy
+
+<div align="center">
+
+[![Trophy](https://github-trophy.vercel.app/?username=sakayori-iroha&theme=dark&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakayori-iroha&theme=dark&hide_border=true&layout=compact&card_width=320)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakayori-iroha&theme=github-dark&hide_border=true&color=6DD5ED&line=6DD5ED&point=ff6b6b&bg_color=0d1117)
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/sakayori-iroha/sakayori-iroha/output/snake.svg)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakayori-iroha@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakayori-iroha)
 
 </div>
 
@@ -76,6 +125,14 @@
 
 <div align="center">
 
-*Feel free to reach out for collaboration or just to say hi!*
+![Profile Views](https://komarev.com/ghpvc/?username=sakayori-iroha&label=Profile%20Views&color=6dd5ed&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+*Feel free to reach out for collaboration or just to say hi!* 🎵
 
 </div>
